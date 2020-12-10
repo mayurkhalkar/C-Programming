@@ -14,5 +14,6 @@ printf("Diameter of circle = %f\n", diameter);
     printf("Area of circle = %f ", area);
     float sp =(1.33) * 3.14 * (radius*radius*radius);
     printf("Valume Of sphere = %f ",sp);
+
 }
 
